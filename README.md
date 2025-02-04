@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Gabriel Almeida | Olá, eu sou Gabriel Almeida! 👋
 
-<!--
-**JoaoGabriel98/JoaoGabriel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ruby Engineer with 5+ exp | Desenvolvedor Ruby on Rails com 5+ anos de experiência  
+🚀 Havin' fun with AI infos and building scalable apps and | Apaixonado por construir aplicações web escaláveis e estudo de AI
 
-Here are some ideas to get you started:
+### My technologies | Minhas tecnologias:
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats:
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=JoaoGabriel98&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriel98&layout=compact&theme=dark)
+
+### Let's talk!
+📫 E-mail: jgfalmeida.98@gmail.com  
+🔗 LinkedIn: [in/joaogabriel98](https://linkedin.com/in/joaogabriel98)
