@@ -10,7 +10,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### GitHub Stats:
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=JoaoGabriel98&show_icons=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriel98&layout=compact&theme=dark)
 
 ### Let's talk!
