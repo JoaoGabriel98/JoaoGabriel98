@@ -1,7 +1,7 @@
 # Hello, I'm Gabriel Almeida | Olá, eu sou Gabriel Almeida! 👋
 
 💻 Ruby Engineer with 5+ exp | Desenvolvedor Ruby on Rails com 5+ anos de experiência  
-🚀 Havin' fun with AI infos and building scalable apps and | Apaixonado por construir aplicações web escaláveis e estudo de AI
+🚀 Havin' fun with AI infos and building scalable apps | Apaixonado por construir aplicações web escaláveis e estudo de AI
 
 ### My technologies | Minhas tecnologias:
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
